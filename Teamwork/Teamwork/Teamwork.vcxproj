@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CBatteria.h" />
     <ClInclude Include="CCellulare.h" />
   </ItemGroup>
   <ItemGroup>
