@@ -1,4 +1,5 @@
 #pragma once
+#include "CBatteria.h"
 class CCellulare
 {
 private:
@@ -13,7 +14,6 @@ public:
 	CCellulare();
 	void chiama();
 	void mandaSMS();
-	void setSMS();
 	void setSecChiamata();
 
 };
